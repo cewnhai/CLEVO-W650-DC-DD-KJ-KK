@@ -1,4 +1,4 @@
- CLEVO-W650-DC-DD-KJ-KK-CLOVER
+ CLEVO-W650-DC-DD-KJ-KK-CLOVER<br />
  if your are a Chinese,you could see this http://bbs.pcbeta.com/viewthread-1831835-1-1.html
  
  CPU	i3-8100	免驱
